@@ -1,5 +1,7 @@
 Tokyo Olympics 2021 - Azure Data Engineering Project
+
 📚 Project Overview
+
 This project demonstrates an end-to-end cloud data pipeline built on Microsoft Azure, showcasing data ingestion, transformation, storage, and analysis workflows using various Azure services.
 
 The dataset used is based on the Tokyo Olympics 2021 events and medal winners.
